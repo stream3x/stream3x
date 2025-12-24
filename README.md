@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @stream3x
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Greetings! 
+- I'm @stream3x, a fullstack developer with a vast sysOps background.
+- What stacks do i use? Basically anything that will make sense for the architecture. 
 
-<!---
-stream3x/stream3x is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+My curent venture is Ourocode collaborated with @VladSenyuk (https://github.com/vladsenyuk/)
+To see and explore our projects - visit https://ourocode.com 
+
+Our current projects - 
+  ALPHA -- https://ez-tattoo.com/ - an AI Empowered Business and Client management system with unlimited possibilities. 
+  IN DEV --  [https:// ](http://shop.ourocode.com/) - AI empowered ecommerce shop 
